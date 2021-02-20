@@ -1,0 +1,5 @@
+*.docx
+*.zip
+
+_DS_Store
+**/_DS_Store
